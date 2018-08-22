@@ -6,71 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="def16c20-b624-4181-9415-a16e809572f9" name="Default" comment="test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/lib/javax.annotation.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/lib/javax.ejb.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/lib/javax.jms.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/lib/javax.persistence.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/lib/javax.resource.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/lib/javax.servlet.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/lib/javax.servlet.jsp.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/lib/javax.servlet.jsp.jstl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/lib/javax.transaction.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/img/letter_bg_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/img/letter_bg_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/img/letter_bg_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/img/pattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/.idea/artifacts/demo_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/.idea/artifacts/demo_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Java_EE_6_Java_EE_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__mysql_mysql_connector_java_5_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_apache_tomcat_tomcat_servlet_api_7_0_62.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/demo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/test/control/HelloWord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/test/control/Login.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/test/control/RegUser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/test/dao/DBHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/test/dao/DBOper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/test/model/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/test/pojo/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/Main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/copy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/css/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/css/style1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/css/style2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/css/style3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/css/style4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/css/templatemo-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/error.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/js/countUp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/js/jquery-1.10.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/js/modernizr.custom.86080.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/js/particles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/main/webapp/modelReg.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../demo/src/test/java/com/test/control/HelloWordTest.java" />
+    <list default="true" id="def16c20-b624-4181-9415-a16e809572f9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../demo/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../demo/out/" />
     <ignored path="$PROJECT_DIR$/../demo/target/" />
@@ -1378,8 +1315,16 @@
       <workItem from="1534815896921" duration="11286000" />
       <workItem from="1534839423877" duration="4064000" />
       <workItem from="1534846770037" duration="3284000" />
-      <workItem from="1534909455769" duration="2656000" />
+      <workItem from="1534909455769" duration="3004000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1534918724184</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534918724184</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1388,7 +1333,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37975000" />
+    <option name="totallyTimeSpent" value="38323000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1413,11 +1358,11 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4810401" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20042644" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23726977" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22885032" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43275487" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17110874" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" x="489" y="165" width="469" height="692" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17110874" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" x="489" y="165" width="469" height="692" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1673774" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1437,6 +1382,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1485,6 +1456,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1510,6 +1482,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1517,6 +1490,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1747,6 +1721,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1754,6 +1729,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1761,6 +1737,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
